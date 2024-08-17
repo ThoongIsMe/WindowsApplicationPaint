@@ -1,0 +1,22 @@
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Paint_21110929\Paint_21110929\bin\Debug\Paint_21110929.exe.config
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Paint_21110929\Paint_21110929\bin\Debug\Paint_21110929.exe
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Paint_21110929\Paint_21110929\bin\Debug\Paint_21110929.pdb
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.csproj.AssemblyReference.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.csproj.SuggestedBindingRedirects.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.Form1.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.Properties.Resources.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.csproj.GenerateResource.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.csproj.CoreCompileInputs.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.exe
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.pdb
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\DoAnGiuaKy\UngDungPaint\Source Code\Paint_21110929\Paint_21110929\bin\Debug\Paint_21110929.exe.config
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\DoAnGiuaKy\UngDungPaint\Source Code\Paint_21110929\Paint_21110929\bin\Debug\Paint_21110929.exe
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\DoAnGiuaKy\UngDungPaint\Source Code\Paint_21110929\Paint_21110929\bin\Debug\Paint_21110929.pdb
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\DoAnGiuaKy\UngDungPaint\Source Code\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.csproj.AssemblyReference.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\DoAnGiuaKy\UngDungPaint\Source Code\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.csproj.SuggestedBindingRedirects.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\DoAnGiuaKy\UngDungPaint\Source Code\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.Form1.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\DoAnGiuaKy\UngDungPaint\Source Code\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.Properties.Resources.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\DoAnGiuaKy\UngDungPaint\Source Code\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.csproj.GenerateResource.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\DoAnGiuaKy\UngDungPaint\Source Code\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.csproj.CoreCompileInputs.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\DoAnGiuaKy\UngDungPaint\Source Code\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.exe
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\DoAnGiuaKy\UngDungPaint\Source Code\Paint_21110929\Paint_21110929\obj\Debug\Paint_21110929.pdb
